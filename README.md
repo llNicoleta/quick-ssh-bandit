@@ -7,6 +7,8 @@ Build main.go using the command:
 go build -o quick-ssh-bandit main.go
 ```
 You can either add the executable in the PATH or run it by it's relative path.
+
+The program can be run using the command:
 ```shell
 quick-ssh-bandit bandit_id
 ```
