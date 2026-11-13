@@ -24,3 +24,6 @@
 go.work
 
 .idea
+
+# Private key for the bandit wargame login
+sshkey.private
